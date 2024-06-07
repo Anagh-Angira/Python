@@ -39,4 +39,9 @@ print(x == z or x < y)
 print(not(False))
 print(not(True))
 
+def func():
+    print(2)
+    print("Inside the Function")
+func()
+
 
