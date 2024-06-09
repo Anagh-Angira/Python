@@ -4,7 +4,7 @@ t = (3,4,5,61,54)
 print(t.count(5))
 print(t.index(3))
 
-# we cannot change the value of tuple
+# we cannot change the value of tuple are immutale
 # t[0] = 44 This is an Error
 mytuple = ("Geeks",)
 print(type(mytuple))

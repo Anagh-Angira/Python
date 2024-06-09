@@ -12,6 +12,7 @@ marks = {"Azhar": 34, "Harry": 54, "Ranveer": 64,
 print(marks["Rohan"])
 
 #Dictionary is mutable we can change
+# A Python dictionary is a data structure that stores the value in key:value pairs.
 marks["Priyanka"] = 90
 print(marks)
 marks.pop()
